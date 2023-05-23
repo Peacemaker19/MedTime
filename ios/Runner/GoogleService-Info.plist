@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>715149306577-md7i103u8dtulojabb06solgfkl3qg72.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.715149306577-md7i103u8dtulojabb06solgfkl3qg72</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWvUofu_8k-p50lRQdz6ppsbtwmfZy2eU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>715149306577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.medtime</string>
+	<key>PROJECT_ID</key>
+	<string>medtime-c0471</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medtime-c0471.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:715149306577:ios:e27faef0d479e23d60f3f0</string>
+</dict>
+</plist>
