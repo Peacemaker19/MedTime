@@ -1,6 +1,6 @@
 # medtime
 
-A new Flutter project.
+MedTime
 
 ## Getting Started
 
