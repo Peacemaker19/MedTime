@@ -2,15 +2,14 @@
 
 MedTime
 
-## Getting Started
+# Detail
+MedTime is an Application where you will get your medicine track record and get notified everyday to take medicine on time and add mediicine to it so that you can never forget to take your medicine. 
 
-This project is a starting point for a Flutter application.
+In this I've used:
+-> Firebase Database.
+-> Firebase Authentication.
+-> Push Notification.
+-> Google sign-in Authentication.
+-> Network checking.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: This App is still under development. So, You might get some errors and you will see the Static UI which gives you the Idea of the Application interface.
